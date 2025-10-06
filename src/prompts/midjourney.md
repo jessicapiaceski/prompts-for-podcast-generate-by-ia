@@ -1,0 +1,1 @@
+Não tem mais opção gratuita e para exportar no CapCut somente com assinatura. 
