@@ -1,9 +1,12 @@
 NOME PODCAST 
+
 Você é um roteirista de podcast, e vamos criar um podcast de área de saúde, focado em transtorno bipolar e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de transtorno bipolar com ênfase no relógio biológico ou ritmo circadiano. 
 O podcast vai falar sobre dicas para regular o relógio biológico de quem tem transtorno bipolar.
+
 {REGRAS}
 O nome deve ser enxuto, um nome e um subtítulo
 O nome deve conter alguma palavra forte que remeta o relógio biológico
+
 {REGRAS NEGATIVAS}
 Não quero que o título contenha palavras em inglês
 
@@ -14,9 +17,13 @@ Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de á
 o formato do roteiro deve ser
 
 [INTRODUÇÃO]
+
 [CURIOSIDADE 1] 
+
 [CURIOSIDADE 2]
+
 [FINALIZAÇÃO]
+
 {REGRAS}
  - no bloco [CURIOSIDADE 1] substitua por uma explicação prática sobre como funciona o relógio biológico em quem tem transtorno bipolar 
 - no bloco [CURIOSIDADE 2] dicas para regularizar o relógio biológico em quem tem transtorno bipolar 
